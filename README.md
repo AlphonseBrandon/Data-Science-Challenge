@@ -104,5 +104,7 @@ The files have been super encrypted - the password to the file is "an unserializ
 
 All the best! Blow us away with your findings and accuracy!
 
+## Challenge #3: ML Development & Operations
 
+Implement the **Self-Organizing Maps** algorithm from scratch without using any existing machine learning libraries (e.g. _scikit-learn_)
 
