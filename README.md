@@ -12,8 +12,6 @@ For this challenge, you can use R or Python.  Everything you need to perform thi
 
 For this challenge, can you predict an _inferred" gender for a customers based on the user behavioural data?
 
-### Task
-
 There are four stages to this task:
 
 **Stage 1** : *SQL* - A lot of our data lives in SQL databases, data scientists need to be comfortable using SQL.
